@@ -3,7 +3,7 @@
     "header": {
         "description": "Arsenal dos Caídos - Behavior Pack",
         "name": "Armory of the Fallen",
-        "uuid": "GERE-UM-UUID-AQUI-1",
+        "uuid": "12fcc984-810e-40f6-8f92-c0d5c6adea5f",
         "version": [1, 0, 0],
         "min_engine_version": [1, 21, 0]
     },
@@ -12,7 +12,7 @@
             "description": "Arsenal dos Caídos - Scripts",
             "type": "script",
             "language": "javascript",
-            "uuid": "GERE-UM-UUID-AQUI-2",
+            "uuid": "aef01f02-7cb1-4063-b12b-02b6603afc8a",
             "version": [1, 0, 0],
             "entry": "scripts/main.js"
         }

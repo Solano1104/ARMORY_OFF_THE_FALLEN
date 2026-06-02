@@ -3,7 +3,7 @@
     "header": {
         "description": "Arsenal dos Caídos - Resource Pack",
         "name": "Armory of the Fallen Resources",
-        "uuid": "GERE-UM-UUID-AQUI-3",
+        "uuid": "c904c16c-9d38-4c9d-bec5-899bdee51ee7",
         "version": [1, 0, 0],
         "min_engine_version": [1, 21, 0]
     },
@@ -11,7 +11,7 @@
         {
             "description": "Arsenal dos Caídos - Recursos",
             "type": "resources",
-            "uuid": "GERE-UM-UUID-AQUI-4",
+            "uuid": "893f83d2-b2df-4207-b8d2-59f46308f5b7",
             "version": [1, 0, 0]
         }
     ]

@@ -1,0 +1,20 @@
+{
+    "format_version": "1.21.0",
+    "minecraft:item": {
+        "description": {
+            "identifier": "armory:kharatio_ingot",
+            "category": "items"
+        },
+        "components": {
+            "minecraft:icon": {
+                "texture": "Kharatio_ingot"
+            },
+            "minecraft:display_name": {
+                "value": "Lingote de Kharatio"
+            },
+            "minecraft:max_stack_size": {
+                "value": 64
+            }
+        }
+    }
+}

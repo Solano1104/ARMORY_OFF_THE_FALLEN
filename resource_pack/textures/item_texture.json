@@ -1,0 +1,12 @@
+{
+    "resource_pack_name": "armory",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "alcarita_ingot": {
+            "textures": "textures/items/Alcarita_ingot"
+        },
+        "kharatio_ingot": {
+            "textures": "textures/items/Kharatio_ingot"
+        }
+    }
+}
