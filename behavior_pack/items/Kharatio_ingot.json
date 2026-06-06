@@ -10,11 +10,7 @@
         "pattern": [
             "A"
         ],
-        "key": {
-            "A": {
-                "item": "minecraft:copper_block"
-            }
-        },
+        
 		"unlock": [
           {
             "item": "armory:kharatio_ingot"
