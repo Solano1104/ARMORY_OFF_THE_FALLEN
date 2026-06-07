@@ -1,20 +1,29 @@
 {
-    "format_version": "1.21.0",
-    "minecraft:item": {
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "armory:Alcarita_ingot",
-            "category": "items"
+            "identifier": "armory:alcarita_ingot"
         },
-        "components": {
-            "minecraft:icon": {
-                "texture": "Alcarita_ingot"
-            },
-            "minecraft:display_name": {
-                "value": "Lingote de Alcarita"
-            },
-            "minecraft:max_stack_size": {
-                "value": 64
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "A"
+        ],
+        "key": {
+            "A": {
+                "item": "minecraft:copper_block"
             }
-        }
+        },
+		"unlock": [
+          {
+            "item": "armory:alcarita_ingot"
+          }
+        ],
+        "result": {
+            "item": "armory:alcarita_ingot",
+            "count": 9
+        },
+        "priority": 1
     }
 }

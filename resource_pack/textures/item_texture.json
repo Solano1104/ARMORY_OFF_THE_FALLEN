@@ -3,10 +3,10 @@
     "texture_name": "atlas.items",
     "texture_data": {
         "alcarita_ingot": {
-            "textures": "textures/items/Alcarita_ingot"
+            "textures": "textures/items/alcarita_ingot"
         },
         "kharatio_ingot": {
-            "textures": "textures/items/Kharatio_ingot"
+            "textures": "textures/items/kharatio_ingot"
         }
     }
 }
