@@ -3,7 +3,7 @@
 	"minecraft:geometry": [
 		{
 			"description": {
-				"identifier": "geometry.kharatio_ingot - Converted",
+				"identifier": "armory:kharatio_ingot",
 				"texture_width": 32,
 				"texture_height": 24
 			}

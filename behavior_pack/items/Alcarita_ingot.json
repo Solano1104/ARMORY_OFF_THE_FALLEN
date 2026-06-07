@@ -1,29 +1,14 @@
 {
     "format_version": "1.20.10",
-    "minecraft:recipe_shaped": {
+    "minecraft:item": {
         "description": {
-            "identifier": "armory:alcarita_ingot"
-        },
-        "tags": [
-            "crafting_table"
-        ],
-        "pattern": [
-            "A"
-        ],
-        "key": {
-            "A": {
-                "item": "minecraft:copper_block"
+            "identifier": "armory:alcarita_ingot",
+            "menu_category": {
+                "category": "items"
             }
         },
-		"unlock": [
-          {
-            "item": "armory:alcarita_ingot"
-          }
-        ],
-        "result": {
-            "item": "armory:alcarita_ingot",
-            "count": 9
-        },
-        "priority": 1
+        "components": {
+            "minecraft:icon": "alcarita_ingot"
+        }
     }
 }
