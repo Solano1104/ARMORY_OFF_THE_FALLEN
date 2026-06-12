@@ -1,26 +1,29 @@
 {
-    "format_version": 2,
+    "format_version": 3,
     "header": {
-        "description": "Arsenal dos Caídos - Behavior Pack",
-        "name": "Armory of the Fallen",
-        "uuid": "12fcc984-810e-40f6-8f92-c0d5c6adea5f",
-        "version": [1, 0, 0],
-        "min_engine_version": [1, 21, 0]
+        "description": "pack.description",
+        "name": "pack.name",
+        "uuid": "b0a9626e-e4ee-4933-8a1b-484da16eff04",
+        "min_engine_version": [
+            1,
+            20,
+            10
+        ],
+        "version": [
+            1,
+            0,
+            0
+        ]
     },
     "modules": [
         {
-            "description": "Arsenal dos Caídos - Scripts",
-            "type": "script",
-            "language": "javascript",
-            "uuid": "aef01f02-7cb1-4063-b12b-02b6603afc8a",
-            "version": [1, 0, 0],
-            "entry": "scripts/main.js"
-        }
-    ],
-    "dependencies": [
-        {
-            "module_name": "@minecraft/server",
-            "version": "1.15.0"
+            "type": "data",
+            "uuid": "62d93c6c-890b-4bcd-bf96-3dd6afe310ed",
+            "version": [
+                1,
+                0,
+                0
+            ]
         }
     ]
 }

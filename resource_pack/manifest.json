@@ -1,18 +1,25 @@
 {
-    "format_version": 2,
+    "format_version": 3,
     "header": {
-        "description": "Arsenal dos Caídos - Resource Pack",
-        "name": "Armory of the Fallen Resources",
-        "uuid": "c904c16c-9d38-4c9d-bec5-899bdee51ee7",
-        "version": [1, 0, 0],
-        "min_engine_version": [1, 21, 0]
+        "description": "pack.description",
+        "name": "pack.name",
+        "uuid": "4bc3d86e-cd0a-47b1-987e-fcd113db4861",
+        "min_engine_version": "1.20.10",
+        "version": [
+            1,
+            0,
+            0
+        ]
     },
     "modules": [
         {
-            "description": "Arsenal dos Caídos - Recursos",
             "type": "resources",
-            "uuid": "893f83d2-b2df-4207-b8d2-59f46308f5b7",
-            "version": [1, 0, 0]
+            "uuid": "4a93c975-4281-4f63-a1d7-daf9091059f8",
+            "version": [
+                1,
+                0,
+                0
+            ]
         }
     ]
 }
