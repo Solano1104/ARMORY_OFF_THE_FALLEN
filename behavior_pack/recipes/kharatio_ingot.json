@@ -1,29 +1,15 @@
 {
     "format_version": "1.20.10",
     "minecraft:recipe_shaped": {
-        "description": {
-            "identifier": "armory:kharatio_ingot"
-        },
+        "description": { "identifier": "armory:kharatio_ingot_recipe" },
         "tags": [
             "crafting_table"
         ],
         "pattern": [
             "A"
         ],
-        "key": {
-            "A": {
-                "item": "minecraft:copper_ingot"
-            }
-        },
-        "unlock": [
-            {
-                "item": "armory:kharatio_ingot"
-            }
-        ],
-        "result": {
-            "item": "armory:kharatio_ingot",
-            "count": 9
-        },
+        "key": { "A": { "item": "armory:raw_kharatio" } },
+        "result": { "item": "armory:kharatio_ingot", "count": 1 },
         "priority": 1
     }
 }

@@ -5,7 +5,8 @@
 			"description": {
 				"identifier": "armory:alcarita_ingot",
 				"texture_width": 32,
-				"texture_height": 24
+				"texture_height": 32
+				
 			}
 		}
 	]

@@ -7,6 +7,9 @@
         },
         "kharatio_ingot": {
             "textures": "textures/items/kharatio_ingot"
+        },
+        "raw_kharatio": {
+            "textures": "textures/items/raw_kharatio"
         }
     }
 }

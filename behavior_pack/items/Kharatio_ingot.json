@@ -3,12 +3,12 @@
     "minecraft:item": {
         "description": {
             "identifier": "armory:kharatio_ingot",
-            "menu_category": {
-                "category": "items"
-            }
+            "category": "items"
         },
         "components": {
-            "minecraft:icon": "kharatio_ingot"
+            "minecraft:icon": {
+                "texture": "kharatio_ingot"
+            }
         }
     }
 }

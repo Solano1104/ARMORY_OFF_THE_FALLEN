@@ -2,7 +2,7 @@
     "format_version": "1.20.10",
     "minecraft:item": {
         "description": {
-            "identifier": "armory:alcarita_ingot",
+            "identifier": "armory:raw_alcarita",
             "category": "items"
         },
         "components": {

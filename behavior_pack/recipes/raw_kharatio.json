@@ -1,0 +1,28 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "armory:raw_kharatio"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "armory:raw_kharatio"
+      }
+    },
+	"unlock": [
+      {
+        "item": "armory:raw_kharatio_block"
+      }
+    ],
+    "result": {
+      "item": "armory:raw_kharatio",
+      "count": 9
+    }
+  }
+}

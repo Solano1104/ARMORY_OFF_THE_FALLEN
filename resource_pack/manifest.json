@@ -2,9 +2,13 @@
     "format_version": 3,
     "header": {
         "description": "pack.description",
-        "name": "pack.name",
+        "name": "teste 1",
         "uuid": "4bc3d86e-cd0a-47b1-987e-fcd113db4861",
-        "min_engine_version": "1.20.10",
+        "min_engine_version": [
+            1,
+            20,
+            10
+        ],
         "version": [
             1,
             0,
