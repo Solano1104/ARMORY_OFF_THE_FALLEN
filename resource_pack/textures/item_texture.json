@@ -34,18 +34,6 @@
         },
         "raw_neptita": {
             "textures": "textures/items/raw_neptita"
-        },
-        "deepslate_kharatio_ore": {
-            "textures": "textures/items/deepslate_kharatio_ore"
-        },
-        "deepslate_celesio_ore": {
-            "textures": "textures/items/deepslate_celesio_ore"
-        },
-        "deepslate_emeritio_ore": {
-            "textures": "textures/items/deepslate_emeritio_ore"
-        },
-        "deepslate_neptita_ore": {
-            "textures": "textures/items/deepslate_neptita_ore"
         }
     }
 }

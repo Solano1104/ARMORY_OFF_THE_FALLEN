@@ -1,0 +1,26 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "armory:raw_curiotita"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "armory:raw_curiotita_block"
+      }
+    },
+    "unlock": [
+      {
+        "item": "armory:raw_curiotita_block"
+      }
+    ],
+    "result": {
+      "item": "armory:raw_curiotita",
+      "count": 9
+    }
+  }
+}

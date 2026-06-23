@@ -1,0 +1,16 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "armory:emeritio_ingot_smelting"
+        },
+        "tags": [
+            "furnace",
+            "blast_furnace"
+        ],
+        "input": {
+            "item": "armory:raw_emeritio"
+        },
+        "output": "armory:emeritio_ingot"
+    }
+}

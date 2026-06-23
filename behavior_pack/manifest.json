@@ -1,29 +1,23 @@
 {
-    "format_version": 3,
+    "format_version": 2,
     "header": {
-        "description": "pack.description",
-        "name": "teste 1",
-        "uuid": "b0a9626e-e4ee-4933-8a1b-484da16eff04",
-        "min_engine_version": [
-            1,
-            20,
-            10
-        ],
-        "version": [
-            1,
-            0,
-            0
-        ]
+        "description": "Armory - Minerios e Lingotes",
+        "name": "Armory Behavior Pack",
+        "uuid": "10a13c67-f026-480f-a845-4eef0168475c",
+        "min_engine_version": [1, 20, 10],
+        "version": [1, 0, 0]
     },
     "modules": [
         {
             "type": "data",
-            "uuid": "62d93c6c-890b-4bcd-bf96-3dd6afe310ed",
-            "version": [
-                1,
-                0,
-                0
-            ]
+            "uuid": "e2db21e7-8359-4583-9dbf-1b7defa673cf",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "5ecad6e8-4fad-48af-8c0d-ef08371c4d6c",
+            "version": [1, 0, 0]
         }
     ]
 }

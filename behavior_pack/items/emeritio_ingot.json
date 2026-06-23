@@ -1,0 +1,14 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:item": {
+        "description": {
+            "identifier": "armory:emeritio_ingot",
+            "category": "items"
+        },
+        "components": {
+            "minecraft:icon": {
+                "texture": "emeritio_ingot"
+            }
+        }
+    }
+}

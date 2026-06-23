@@ -1,0 +1,14 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:item": {
+        "description": {
+            "identifier": "armory:curiotita_ingot",
+            "category": "items"
+        },
+        "components": {
+            "minecraft:icon": {
+                "texture": "curiotita_ingot"
+            }
+        }
+    }
+}

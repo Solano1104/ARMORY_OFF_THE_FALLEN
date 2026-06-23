@@ -1,0 +1,14 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:item": {
+        "description": {
+            "identifier": "armory:neptita_ingot",
+            "category": "items"
+        },
+        "components": {
+            "minecraft:icon": {
+                "texture": "neptita_ingot"
+            }
+        }
+    }
+}

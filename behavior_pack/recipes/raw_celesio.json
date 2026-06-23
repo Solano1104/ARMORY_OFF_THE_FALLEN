@@ -1,0 +1,26 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "armory:raw_celesio"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "#"
+    ],
+    "key": {
+      "#": {
+        "item": "armory:raw_celesio_block"
+      }
+    },
+    "unlock": [
+      {
+        "item": "armory:raw_celesio_block"
+      }
+    ],
+    "result": {
+      "item": "armory:raw_celesio",
+      "count": 9
+    }
+  }
+}
