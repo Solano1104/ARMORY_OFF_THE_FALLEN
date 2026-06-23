@@ -1,2 +1,4 @@
 
 diagnostic.disable.behaviorpack.items.missing=true
+diagnostic.disable.json.invalid=true
+diagnostic.disable.json.invalid=true

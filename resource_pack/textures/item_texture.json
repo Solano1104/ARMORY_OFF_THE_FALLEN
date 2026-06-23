@@ -46,9 +46,6 @@
         },
         "deepslate_neptita_ore": {
             "textures": "textures/items/deepslate_neptita_ore"
-        },
-        "neptunio_ingot": {
-            "textures": "textures/items/neptunio_ingot"
         }
     }
 }
