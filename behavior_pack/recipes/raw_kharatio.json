@@ -2,20 +2,18 @@
   "format_version": "1.20.10",
   "minecraft:recipe_shaped": {
     "description": {
-    "identifier": "armory:raw_kharatio"
+      "identifier": "armory:raw_kharatio_from_block"
     },
-
-    
-    "tags": [ "crafting_table" ],
+    "tags": ["crafting_table"],
     "pattern": [
       "#"
     ],
     "key": {
       "#": {
-        "item": "armory:raw_kharatio"
+        "item": "armory:raw_kharatio_block"
       }
     },
-	"unlock": [
+    "unlock": [
       {
         "item": "armory:raw_kharatio_block"
       }
