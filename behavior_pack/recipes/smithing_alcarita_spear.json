@@ -1,0 +1,13 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_smithing_transform": {
+        "description": {
+            "identifier": "armory:smithing_alcarita_ingot"
+        },
+        "tags": [ "smithing_table" ],
+        "template": "minecraft:netherite_upgrade_smithing_template",
+        "base": "minecraft:iron_ingot",
+        "addition": "minecraft:obsidian",
+        "result": "armory:alcarita_ingot"
+    }
+}
