@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "adf:chestplate_kharatio"
+    },
+    "tags": [
+      "dark_forge"
+    ],
+    "pattern": [
+      "I I",
+      "III",
+      "III"
+    ],
+    "key": {
+      "I": {
+        "item": "adf:kharatio_ingot"
+      }
+    },
+    "result": {
+      "item": "adf:chestplate_kharatio",
+      "count": 1
+    }
+  }
+}

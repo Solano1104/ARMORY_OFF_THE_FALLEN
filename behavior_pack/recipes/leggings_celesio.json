@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "adf:leggings_celesio"
+    },
+    "tags": [
+      "dark_forge"
+    ],
+    "pattern": [
+      "III",
+      "I I",
+      "I I"
+    ],
+    "key": {
+      "I": {
+        "item": "adf:celesio_ingot"
+      }
+    },
+    "result": {
+      "item": "adf:leggings_celesio",
+      "count": 1
+    }
+  }
+}

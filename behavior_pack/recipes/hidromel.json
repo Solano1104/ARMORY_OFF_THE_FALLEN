@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "adf:hidromel_recipe"
+    },
+    "tags": [
+      "dark_forge"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:honey_bottle"
+      },
+      {
+        "item": "minecraft:sugar"
+      },
+      {
+        "item": "minecraft:wheat"
+      }
+    ],
+    "result": {
+      "item": "adf:hidromel",
+      "count": 1
+    }
+  }
+}

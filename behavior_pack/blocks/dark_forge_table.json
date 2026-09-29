@@ -1,0 +1,43 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:block": {
+    "description": {
+      "identifier": "adf:dark_forge_table",
+      "menu_category": {
+        "category": "construction"
+      }
+    },
+    "components": {
+      "minecraft:display_name": "tile.adf:dark_forge_table.name",
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "adf:dark_forge_table_side",
+          "render_method": "opaque"
+        },
+        "up": {
+          "texture": "adf:dark_forge_table_top",
+          "render_method": "opaque"
+        },
+        "down": {
+          "texture": "adf:dark_forge_table_top",
+          "render_method": "opaque"
+        }
+      },
+      "minecraft:geometry": "minecraft:geometry.full_block",
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 3.0
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 4.0
+      },
+      "minecraft:map_color": "#3c2820",
+      "minecraft:crafting_table": {
+        "crafting_tags": [
+          "crafting_table",
+          "dark_forge"
+        ],
+        "table_name": "tile.adf:dark_forge_table.name"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "adf:chestplate_neptita"
+    },
+    "tags": [
+      "dark_forge"
+    ],
+    "pattern": [
+      "I I",
+      "III",
+      "III"
+    ],
+    "key": {
+      "I": {
+        "item": "adf:neptita_ingot"
+      }
+    },
+    "result": {
+      "item": "adf:chestplate_neptita",
+      "count": 1
+    }
+  }
+}

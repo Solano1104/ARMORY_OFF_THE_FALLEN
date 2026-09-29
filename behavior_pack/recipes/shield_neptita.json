@@ -1,0 +1,28 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "adf:shield_neptita"
+    },
+    "tags": [
+      "dark_forge"
+    ],
+    "pattern": [
+      "ISI",
+      "III",
+      " I "
+    ],
+    "key": {
+      "I": {
+        "item": "adf:neptita_ingot"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "adf:shield_neptita",
+      "count": 1
+    }
+  }
+}

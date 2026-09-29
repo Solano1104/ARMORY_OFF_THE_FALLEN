@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "adf:dark_forge_table"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "A A",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "adf:alcarita_ingot"
+      }
+    },
+    "result": {
+      "item": "adf:dark_forge_table",
+      "count": 1
+    }
+  }
+}

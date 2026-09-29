@@ -1,0 +1,47 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:item": {
+    "description": {
+      "identifier": "adf:hidromel",
+      "menu_category": {
+        "category": "nature"
+      }
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "adf:hidromel"
+      },
+      "minecraft:display_name": {
+        "value": "item.adf:hidromel.name"
+      },
+      "minecraft:max_stack_size": 16,
+      "minecraft:use_animation": "drink",
+      "minecraft:use_modifiers": {
+        "use_duration": 1.2,
+        "movement_modifier": 0.2
+      },
+      "minecraft:food": {
+        "nutrition": 3,
+        "saturation_modifier": 0.4,
+        "can_always_eat": true
+      },
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:is_food"
+        ]
+      },
+      "adf:food_effects": [
+        {
+          "name": "strength",
+          "duration": 500,
+          "amplifier": 0
+        },
+        {
+          "name": "speed",
+          "duration": 500,
+          "amplifier": 1
+        }
+      ]
+    }
+  }
+}

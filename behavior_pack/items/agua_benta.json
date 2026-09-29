@@ -1,0 +1,52 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:item": {
+    "description": {
+      "identifier": "adf:agua_benta",
+      "menu_category": {
+        "category": "nature"
+      }
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "adf:agua_benta"
+      },
+      "minecraft:display_name": {
+        "value": "item.adf:agua_benta.name"
+      },
+      "minecraft:max_stack_size": 16,
+      "minecraft:use_animation": "drink",
+      "minecraft:use_modifiers": {
+        "use_duration": 1.2,
+        "movement_modifier": 0.2
+      },
+      "minecraft:food": {
+        "nutrition": 1,
+        "saturation_modifier": 0.2,
+        "can_always_eat": true
+      },
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:is_food"
+        ]
+      },
+      "adf:food_effects": [
+        {
+          "name": "absorption",
+          "duration": 400,
+          "amplifier": 1
+        },
+        {
+          "name": "regeneration",
+          "duration": 400,
+          "amplifier": 0
+        },
+        {
+          "name": "strength",
+          "duration": 400,
+          "amplifier": 0
+        }
+      ]
+    }
+  }
+}

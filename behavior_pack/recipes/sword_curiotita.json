@@ -1,0 +1,28 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "adf:sword_curiotita"
+    },
+    "tags": [
+      "dark_forge"
+    ],
+    "pattern": [
+      " I ",
+      " I ",
+      " S "
+    ],
+    "key": {
+      "I": {
+        "item": "adf:curiotita_ingot"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "adf:sword_curiotita",
+      "count": 1
+    }
+  }
+}

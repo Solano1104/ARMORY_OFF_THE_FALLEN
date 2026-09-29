@@ -1,0 +1,24 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "adf:boots_celesio"
+    },
+    "tags": [
+      "dark_forge"
+    ],
+    "pattern": [
+      "I I",
+      "I I"
+    ],
+    "key": {
+      "I": {
+        "item": "adf:celesio_ingot"
+      }
+    },
+    "result": {
+      "item": "adf:boots_celesio",
+      "count": 1
+    }
+  }
+}

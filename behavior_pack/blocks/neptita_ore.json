@@ -1,0 +1,29 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:block": {
+    "description": {
+      "identifier": "adf:neptita_ore",
+      "menu_category": {
+        "category": "nature"
+      }
+    },
+    "components": {
+      "minecraft:display_name": "tile.adf:neptita_ore.name",
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "adf:neptita_ore",
+          "render_method": "opaque"
+        }
+      },
+      "minecraft:geometry": "minecraft:geometry.full_block",
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 4.0
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 4.0
+      },
+      "minecraft:map_color": "#4a4a4a",
+      "minecraft:loot": "loot_tables/blocks/neptita_ore.json"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "adf:leggings_emeritio"
+    },
+    "tags": [
+      "dark_forge"
+    ],
+    "pattern": [
+      "III",
+      "I I",
+      "I I"
+    ],
+    "key": {
+      "I": {
+        "item": "adf:emeritio_ingot"
+      }
+    },
+    "result": {
+      "item": "adf:leggings_emeritio",
+      "count": 1
+    }
+  }
+}

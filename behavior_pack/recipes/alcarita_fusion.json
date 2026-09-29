@@ -1,0 +1,23 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "adf:alcarita_fusion"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:iron_ingot"
+      },
+      {
+        "item": "minecraft:obsidian"
+      }
+    ],
+    "result": {
+      "item": "adf:alcarita_ingot",
+      "count": 1
+    }
+  }
+}

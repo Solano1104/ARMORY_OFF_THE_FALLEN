@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "adf:agua_benta_recipe"
+    },
+    "tags": [
+      "dark_forge"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:potion"
+      },
+      {
+        "item": "minecraft:glowstone_dust"
+      },
+      {
+        "item": "minecraft:sugar"
+      }
+    ],
+    "result": {
+      "item": "adf:agua_benta",
+      "count": 1
+    }
+  }
+}

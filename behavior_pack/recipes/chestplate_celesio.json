@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "adf:chestplate_celesio"
+    },
+    "tags": [
+      "dark_forge"
+    ],
+    "pattern": [
+      "I I",
+      "III",
+      "III"
+    ],
+    "key": {
+      "I": {
+        "item": "adf:celesio_ingot"
+      }
+    },
+    "result": {
+      "item": "adf:chestplate_celesio",
+      "count": 1
+    }
+  }
+}

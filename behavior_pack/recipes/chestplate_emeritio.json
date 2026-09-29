@@ -1,0 +1,25 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "adf:chestplate_emeritio"
+    },
+    "tags": [
+      "dark_forge"
+    ],
+    "pattern": [
+      "I I",
+      "III",
+      "III"
+    ],
+    "key": {
+      "I": {
+        "item": "adf:emeritio_ingot"
+      }
+    },
+    "result": {
+      "item": "adf:chestplate_emeritio",
+      "count": 1
+    }
+  }
+}

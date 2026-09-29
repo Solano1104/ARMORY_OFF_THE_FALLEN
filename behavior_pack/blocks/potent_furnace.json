@@ -1,0 +1,47 @@
+{
+  "format_version": "1.21.40",
+  "minecraft:block": {
+    "description": {
+      "identifier": "adf:potent_furnace",
+      "menu_category": {
+        "category": "construction"
+      }
+    },
+    "components": {
+      "minecraft:display_name": "tile.adf:potent_furnace.name",
+      "minecraft:material_instances": {
+        "*": {
+          "texture": "adf:potent_furnace_side",
+          "render_method": "opaque"
+        },
+        "up": {
+          "texture": "adf:potent_furnace_top",
+          "render_method": "opaque"
+        },
+        "down": {
+          "texture": "adf:potent_furnace_top",
+          "render_method": "opaque"
+        },
+        "north": {
+          "texture": "adf:potent_furnace_front_off",
+          "render_method": "opaque"
+        }
+      },
+      "minecraft:geometry": "minecraft:geometry.full_block",
+      "minecraft:destructible_by_mining": {
+        "seconds_to_destroy": 4.0
+      },
+      "minecraft:destructible_by_explosion": {
+        "explosion_resistance": 6.0
+      },
+      "minecraft:map_color": "#46484c",
+      "minecraft:light_emission": 3,
+      "minecraft:crafting_table": {
+        "crafting_tags": [
+          "potent_furnace"
+        ],
+        "table_name": "tile.adf:potent_furnace.name"
+      }
+    }
+  }
+}
