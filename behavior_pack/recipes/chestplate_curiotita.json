@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "adf:chestplate_curiotita"
+      "identifier": "armory:chestplate_curiotita"
     },
     "tags": [
       "dark_forge"
@@ -14,11 +14,11 @@
     ],
     "key": {
       "I": {
-        "item": "adf:curiotita_ingot"
+        "item": "armory:curiotita_ingot"
       }
     },
     "result": {
-      "item": "adf:chestplate_curiotita",
+      "item": "armory:chestplate_curiotita",
       "count": 1
     }
   }

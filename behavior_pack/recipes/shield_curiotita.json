@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "adf:shield_curiotita"
+      "identifier": "armory:shield_curiotita"
     },
     "tags": [
       "dark_forge"
@@ -14,14 +14,14 @@
     ],
     "key": {
       "I": {
-        "item": "adf:curiotita_ingot"
+        "item": "armory:curiotita_ingot"
       },
       "S": {
         "item": "minecraft:stick"
       }
     },
     "result": {
-      "item": "adf:shield_curiotita",
+      "item": "armory:shield_curiotita",
       "count": 1
     }
   }

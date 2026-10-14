@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "adf:boots_curiotita"
+      "identifier": "armory:boots_curiotita"
     },
     "tags": [
       "dark_forge"
@@ -13,11 +13,11 @@
     ],
     "key": {
       "I": {
-        "item": "adf:curiotita_ingot"
+        "item": "armory:curiotita_ingot"
       }
     },
     "result": {
-      "item": "adf:boots_curiotita",
+      "item": "armory:boots_curiotita",
       "count": 1
     }
   }

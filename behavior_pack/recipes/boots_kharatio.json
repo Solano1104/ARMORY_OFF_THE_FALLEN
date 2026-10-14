@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "adf:boots_kharatio"
+      "identifier": "armory:boots_kharatio"
     },
     "tags": [
       "dark_forge"
@@ -13,11 +13,11 @@
     ],
     "key": {
       "I": {
-        "item": "adf:kharatio_ingot"
+        "item": "armory:kharatio_ingot"
       }
     },
     "result": {
-      "item": "adf:boots_kharatio",
+      "item": "armory:boots_kharatio",
       "count": 1
     }
   }

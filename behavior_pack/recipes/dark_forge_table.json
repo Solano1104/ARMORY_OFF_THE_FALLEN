@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "adf:dark_forge_table"
+      "identifier": "armory:dark_forge_table"
     },
     "tags": [
       "crafting_table"
@@ -14,11 +14,11 @@
     ],
     "key": {
       "A": {
-        "item": "adf:alcarita_ingot"
+        "item": "armory:alcarita_ingot"
       }
     },
     "result": {
-      "item": "adf:dark_forge_table",
+      "item": "armory:dark_forge_table",
       "count": 1
     }
   }

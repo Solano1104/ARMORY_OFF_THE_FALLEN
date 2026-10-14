@@ -5,7 +5,7 @@
       "entries": [
         {
           "type": "item",
-          "name": "adf:raw_kharatio",
+          "name": "armory:raw_kharatio",
           "weight": 1,
           "functions": [
             {

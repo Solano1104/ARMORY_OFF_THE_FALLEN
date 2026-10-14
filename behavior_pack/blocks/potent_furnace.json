@@ -2,13 +2,13 @@
   "format_version": "1.21.40",
   "minecraft:block": {
     "description": {
-      "identifier": "adf:potent_furnace",
+      "identifier": "armory:alcarita_ingot",
       "menu_category": {
         "category": "construction"
       }
     },
     "components": {
-      "minecraft:display_name": "tile.adf:potent_furnace.name",
+      "minecraft:display_name": "tile.armory:potent_furnace.name",
       "minecraft:material_instances": {
         "*": {
           "texture": "adf:potent_furnace_side",
@@ -40,7 +40,7 @@
         "crafting_tags": [
           "potent_furnace"
         ],
-        "table_name": "tile.adf:potent_furnace.name"
+        "table_name": "tile.armory:potent_furnace.name"
       }
     }
   }

@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "adf:chestplate_emeritio"
+      "identifier": "armory:chestplate_emeritio"
     },
     "tags": [
       "dark_forge"
@@ -14,11 +14,11 @@
     ],
     "key": {
       "I": {
-        "item": "adf:emeritio_ingot"
+        "item": "armory:emeritio_ingot"
       }
     },
     "result": {
-      "item": "adf:chestplate_emeritio",
+      "item": "armory:chestplate_emeritio",
       "count": 1
     }
   }

@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shapeless": {
     "description": {
-      "identifier": "adf:hidromel_recipe"
+      "identifier": "armory:hidromel_recipe"
     },
     "tags": [
       "dark_forge"
@@ -19,7 +19,7 @@
       }
     ],
     "result": {
-      "item": "adf:hidromel",
+      "item": "armory:hidromel",
       "count": 1
     }
   }

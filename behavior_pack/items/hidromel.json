@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:item": {
     "description": {
-      "identifier": "adf:hidromel",
+      "identifier": "armory:hidromel",
       "menu_category": {
         "category": "nature"
       }
@@ -12,7 +12,7 @@
         "texture": "adf:hidromel"
       },
       "minecraft:display_name": {
-        "value": "item.adf:hidromel.name"
+        "value": "item.armory:hidromel.name"
       },
       "minecraft:max_stack_size": 16,
       "minecraft:use_animation": "drink",
@@ -30,7 +30,7 @@
           "minecraft:is_food"
         ]
       },
-      "adf:food_effects": [
+      "armory:food_effects": [
         {
           "name": "strength",
           "duration": 500,

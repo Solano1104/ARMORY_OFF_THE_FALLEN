@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "adf:sword_neptita"
+      "identifier": "armory:sword_neptita"
     },
     "tags": [
       "dark_forge"
@@ -14,14 +14,14 @@
     ],
     "key": {
       "I": {
-        "item": "adf:neptita_ingot"
+        "item": "armory:neptita_ingot"
       },
       "S": {
         "item": "minecraft:stick"
       }
     },
     "result": {
-      "item": "adf:sword_neptita",
+      "item": "armory:sword_neptita",
       "count": 1
     }
   }

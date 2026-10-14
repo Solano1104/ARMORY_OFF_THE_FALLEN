@@ -19,7 +19,7 @@ const ItemFoodEffectsComponent = {
 
 system.beforeEvents.startup.subscribe(({ itemComponentRegistry }) => {
   itemComponentRegistry.registerCustomComponent(
-    "adf:food_effects",
+    "armory:food_effects",
     ItemFoodEffectsComponent
   );
 });
@@ -28,12 +28,12 @@ world.afterEvents.playerSpawn.subscribe((event) => {
   const { player, initialSpawn } = event;
   if (!initialSpawn) return;
 
-  const already = player.getDynamicProperty("adf:got_manual");
+  const already = player.getDynamicProperty("armory:got_manual");
   if (already) return;
 
   system.run(() => {
-    player.runCommand(`give @s ${"adf"}:manual_arsenal 1`);
-    player.setDynamicProperty("adf:got_manual", true);
+    player.runCommand(`give @s armory:manual_arsenal 1`);
+    player.setDynamicProperty("armory:got_manual", true);
     player.sendMessage(
       "6[Arsenal dos Caídos]r Você recebeu o Manual da modificação! Consulte-o para aprender sobre a Mesa de Trabalho Sombria e a Fornalha Potente."
     );

@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "adf:boots_emeritio"
+      "identifier": "armory:boots_emeritio"
     },
     "tags": [
       "dark_forge"
@@ -13,11 +13,11 @@
     ],
     "key": {
       "I": {
-        "item": "adf:emeritio_ingot"
+        "item": "armory:emeritio_ingot"
       }
     },
     "result": {
-      "item": "adf:boots_emeritio",
+      "item": "armory:boots_emeritio",
       "count": 1
     }
   }

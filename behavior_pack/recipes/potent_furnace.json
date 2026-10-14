@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "adf:potent_furnace"
+      "identifier": "armory:potent_furnace"
     },
     "tags": [
       "crafting_table"
@@ -14,11 +14,11 @@
     ],
     "key": {
       "A": {
-        "item": "adf:alcarita_ingot"
+        "item": "armory:alcarita_ingot"
       }
     },
     "result": {
-      "item": "adf:potent_furnace",
+      "item": "armory:potent_furnace",
       "count": 1
     }
   }

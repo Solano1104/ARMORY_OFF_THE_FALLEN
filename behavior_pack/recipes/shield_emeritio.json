@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "adf:shield_emeritio"
+      "identifier": "armory:shield_emeritio"
     },
     "tags": [
       "dark_forge"
@@ -14,14 +14,14 @@
     ],
     "key": {
       "I": {
-        "item": "adf:emeritio_ingot"
+        "item": "armory:emeritio_ingot"
       },
       "S": {
         "item": "minecraft:stick"
       }
     },
     "result": {
-      "item": "adf:shield_emeritio",
+      "item": "armory:shield_emeritio",
       "count": 1
     }
   }

@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:item": {
     "description": {
-      "identifier": "adf:manual_arsenal",
+      "identifier": "armory:manual_arsenal",
       "menu_category": {
         "category": "nature"
       }
@@ -12,7 +12,7 @@
         "texture": "adf:manual_arsenal"
       },
       "minecraft:display_name": {
-        "value": "item.adf:manual_arsenal.name"
+        "value": "item.armory:manual_arsenal.name"
       },
       "minecraft:max_stack_size": 1
     }

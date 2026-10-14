@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "adf:leggings_celesio"
+      "identifier": "armory:leggings_celesio"
     },
     "tags": [
       "dark_forge"
@@ -14,11 +14,11 @@
     ],
     "key": {
       "I": {
-        "item": "adf:celesio_ingot"
+        "item": "armory:celesio_ingot"
       }
     },
     "result": {
-      "item": "adf:leggings_celesio",
+      "item": "armory:leggings_celesio",
       "count": 1
     }
   }

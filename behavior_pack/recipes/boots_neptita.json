@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "adf:boots_neptita"
+      "identifier": "armory:boots_neptita"
     },
     "tags": [
       "dark_forge"
@@ -13,11 +13,11 @@
     ],
     "key": {
       "I": {
-        "item": "adf:neptita_ingot"
+        "item": "armory:neptita_ingot"
       }
     },
     "result": {
-      "item": "adf:boots_neptita",
+      "item": "armory:boots_neptita",
       "count": 1
     }
   }

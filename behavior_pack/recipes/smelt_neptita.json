@@ -2,21 +2,21 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shapeless": {
     "description": {
-      "identifier": "adf:smelt_neptita"
+      "identifier": "armory:smelt_neptita"
     },
     "tags": [
       "potent_furnace"
     ],
     "ingredients": [
       {
-        "item": "adf:raw_neptita"
+        "item": "armory:raw_neptita"
       },
       {
         "item": "minecraft:coal"
       }
     ],
     "result": {
-      "item": "adf:neptita_ingot",
+      "item": "armory:neptita_ingot",
       "count": 1
     }
   }

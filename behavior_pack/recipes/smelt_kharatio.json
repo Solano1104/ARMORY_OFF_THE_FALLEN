@@ -2,21 +2,21 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shapeless": {
     "description": {
-      "identifier": "adf:smelt_kharatio"
+      "identifier": "armory:smelt_kharatio"
     },
     "tags": [
       "potent_furnace"
     ],
     "ingredients": [
       {
-        "item": "adf:raw_kharatio"
+        "item": "armory:raw_kharatio"
       },
       {
         "item": "minecraft:coal"
       }
     ],
     "result": {
-      "item": "adf:kharatio_ingot",
+      "item": "armory:kharatio_ingot",
       "count": 1
     }
   }

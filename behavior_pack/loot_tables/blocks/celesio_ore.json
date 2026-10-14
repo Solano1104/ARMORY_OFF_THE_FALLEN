@@ -5,7 +5,7 @@
       "entries": [
         {
           "type": "item",
-          "name": "adf:raw_celesio",
+          "name": "armory:raw_celesio",
           "weight": 1,
           "functions": [
             {

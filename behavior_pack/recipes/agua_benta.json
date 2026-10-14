@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shapeless": {
     "description": {
-      "identifier": "adf:agua_benta_recipe"
+      "identifier": "armory:agua_benta_recipe"
     },
     "tags": [
       "dark_forge"
@@ -19,7 +19,7 @@
       }
     ],
     "result": {
-      "item": "adf:agua_benta",
+      "item": "armory:agua_benta",
       "count": 1
     }
   }

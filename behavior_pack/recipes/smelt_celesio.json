@@ -2,21 +2,21 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shapeless": {
     "description": {
-      "identifier": "adf:smelt_celesio"
+      "identifier": "armory:smelt_celesio"
     },
     "tags": [
       "potent_furnace"
     ],
     "ingredients": [
       {
-        "item": "adf:raw_celesio"
+        "item": "armory:raw_celesio"
       },
       {
         "item": "minecraft:coal"
       }
     ],
     "result": {
-      "item": "adf:celesio_ingot",
+      "item": "armory:celesio_ingot",
       "count": 1
     }
   }

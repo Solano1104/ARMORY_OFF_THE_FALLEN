@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "adf:helmet_kharatio"
+      "identifier": "armory:helmet_kharatio"
     },
     "tags": [
       "dark_forge"
@@ -13,11 +13,11 @@
     ],
     "key": {
       "I": {
-        "item": "adf:kharatio_ingot"
+        "item": "armory:kharatio_ingot"
       }
     },
     "result": {
-      "item": "adf:helmet_kharatio",
+      "item": "armory:helmet_kharatio",
       "count": 1
     }
   }

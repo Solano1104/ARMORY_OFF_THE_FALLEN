@@ -2,13 +2,13 @@
   "format_version": "1.21.40",
   "minecraft:block": {
     "description": {
-      "identifier": "adf:dark_forge_table",
+      "identifier": "armory:dark_forge_table",
       "menu_category": {
         "category": "construction"
       }
     },
     "components": {
-      "minecraft:display_name": "tile.adf:dark_forge_table.name",
+      "minecraft:display_name": "tile.armory:dark_forge_table.name",
       "minecraft:material_instances": {
         "*": {
           "texture": "adf:dark_forge_table_side",
@@ -36,7 +36,7 @@
           "crafting_table",
           "dark_forge"
         ],
-        "table_name": "tile.adf:dark_forge_table.name"
+        "table_name": "tile.armory:dark_forge_table.name"
       }
     }
   }

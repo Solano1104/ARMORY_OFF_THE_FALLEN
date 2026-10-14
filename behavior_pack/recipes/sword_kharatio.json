@@ -2,7 +2,7 @@
   "format_version": "1.21.40",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "adf:sword_kharatio"
+      "identifier": "armory:sword_kharatio"
     },
     "tags": [
       "dark_forge"
@@ -14,14 +14,14 @@
     ],
     "key": {
       "I": {
-        "item": "adf:kharatio_ingot"
+        "item": "armory:kharatio_ingot"
       },
       "S": {
         "item": "minecraft:stick"
       }
     },
     "result": {
-      "item": "adf:sword_kharatio",
+      "item": "armory:sword_kharatio",
       "count": 1
     }
   }
