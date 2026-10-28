@@ -1,0 +1,86 @@
+{
+  "resource_pack_name": "armory",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "adf:celesio_ore": {
+      "textures": "textures/blocks/celesio_ore"
+    },
+    "adf:curiotita_ore": {
+      "textures": "textures/blocks/curiotita_ore"
+    },
+    "adf:dark_forge_table_side": {
+      "textures": "textures/blocks/dark_forge_table_side"
+    },
+    "adf:dark_forge_table_top": {
+      "textures": "textures/blocks/dark_forge_table_top"
+    },
+    "adf:emeritio_ore": {
+      "textures": "textures/blocks/emeritio_ore"
+    },
+    "adf:kharatio_ore": {
+      "textures": "textures/blocks/kharatio_ore"
+    },
+    "adf:neptita_ore": {
+      "textures": "textures/blocks/neptita_ore"
+    },
+    "adf:potent_furnace_side": {
+      "textures": "textures/blocks/potent_furnace_side"
+    },
+    "adf:potent_furnace_top": {
+      "textures": "textures/blocks/potent_furnace_top"
+    },
+    "adf:potent_furnace_front_off": {
+      "textures": "textures/blocks/potent_furnace_front_off"
+    },
+    "neptita_ore": {
+      "textures": "textures/blocks/neptita_ore"
+    },
+    "potent_furnace_top": {
+      "textures": "textures/blocks/potent_furnace_top"
+    },
+    "deepslate_neptita_ore": {
+      "textures": "textures/blocks/deepslate_neptita_ore"
+    },
+    "celesio_ore": {
+      "textures": "textures/blocks/celesio_ore"
+    },
+    "potent_furnace_side": {
+      "textures": "textures/blocks/potent_furnace_side"
+    },
+    "deepslate_kharatio_ore": {
+      "textures": "textures/blocks/deepslate_kharatio_ore"
+    },
+    "kharatio_ore": {
+      "textures": "textures/blocks/kharatio_ore"
+    },
+    "alcarita_block": {
+      "textures": "textures/blocks/alcarita_block"
+    },
+    "deepslate_celesio_ore": {
+      "textures": "textures/blocks/deepslate_celesio_ore"
+    },
+    "emeritio_ore": {
+      "textures": "textures/blocks/emeritio_ore"
+    },
+    "curiotita_ore": {
+      "textures": "textures/blocks/curiotita_ore"
+    },
+    "deepslate_curiotita_ore": {
+      "textures": "textures/blocks/deepslate_curiotita_ore"
+    },
+    "potent_furnace_front_off": {
+      "textures": "textures/blocks/potent_furnace_front_off"
+    },
+    "dark_forge_table_side": {
+      "textures": "textures/blocks/dark_forge_table_side"
+    },
+    "dark_forge_table_top": {
+      "textures": "textures/blocks/dark_forge_table_top"
+    },
+    "deepslate_emeritio_ore": {
+      "textures": "textures/blocks/deepslate_emeritio_ore"
+    }
+  }
+}
