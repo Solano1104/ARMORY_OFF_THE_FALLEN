@@ -1,0 +1,44 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:item": {
+    "description": {
+      "identifier": "armory:sword_curiotita",
+      "menu_category": {
+        "category": "items",
+        "group": "itemGroup.name.sword"
+      }
+    },
+    "components": {
+      "minecraft:icon": "armory:sword_curiotita",
+      "minecraft:display_name": {
+        "value": "item.armory:sword_curiotita.name"
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:hand_equipped": true,
+      "minecraft:damage": 7,
+      "minecraft:durability": {
+        "max_durability": 300
+      },
+      "minecraft:enchantable": {
+        "value": 10,
+        "slot": "sword"
+      },
+      "minecraft:repairable": {
+        "repair_items": [
+          {
+            "items": [
+              "armory:curiotita_ingot"
+            ],
+            "repair_amount": "context.other->q.remaining_durability + 0.25 * context.other->q.max_durability"
+          }
+        ]
+      },
+      "minecraft:tags": {
+        "tags": [
+          "minecraft:is_sword",
+          "minecraft:sword"
+        ]
+      }
+    }
+  }
+}

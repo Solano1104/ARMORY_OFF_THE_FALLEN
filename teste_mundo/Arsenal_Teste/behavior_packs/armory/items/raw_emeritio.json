@@ -1,0 +1,17 @@
+{
+  "format_version": "1.21.90",
+  "minecraft:item": {
+    "description": {
+      "identifier": "armory:raw_emeritio",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "raw_emeritio",
+      "minecraft:display_name": {
+        "value": "item.armory:raw_emeritio.name"
+      }
+    }
+  }
+}

@@ -1,14 +1,17 @@
 {
-    "format_version": "1.20.10",
-    "minecraft:item": {
-        "description": {
-            "identifier": "armory:raw_neptita",
-            "category": "items"
-        },
-        "components": {
-            "minecraft:icon": {
-                "texture": "raw_neptita"
-            }
-        }
+  "format_version": "1.21.90",
+  "minecraft:item": {
+    "description": {
+      "identifier": "armory:raw_neptita",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "raw_neptita",
+      "minecraft:display_name": {
+        "value": "item.armory:raw_neptita.name"
+      }
     }
+  }
 }

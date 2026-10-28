@@ -1,0 +1,39 @@
+{
+    "resource_pack_name": "armory",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "alcarita_ingot": {
+            "textures": "textures/items/alcarita_ingot"
+        },
+        "kharatio_ingot": {
+            "textures": "textures/items/kharatio_ingot"
+        },
+        "raw_kharatio": {
+            "textures": "textures/items/raw_kharatio"
+        },
+        "raw_celesio": {
+            "textures": "textures/items/raw_celesio"
+        },
+        "celesio_ingot": {
+            "textures": "textures/items/celesio_ingot"
+        },
+        "raw_curiotita": {
+            "textures": "textures/items/raw_curiotita"
+        },
+        "curiotita_ingot": {
+            "textures": "textures/items/curiotita_ingot"
+        },
+        "emeritio_ingot": {
+            "textures": "textures/items/emeritio_ingot"
+        },
+        "raw_emeritio": {
+            "textures": "textures/items/raw_emeritio"
+        },
+        "neptita_ingot": {
+            "textures": "textures/items/neptita_ingot"
+        },
+        "raw_neptita": {
+            "textures": "textures/items/raw_neptita"
+        }
+    }
+}

@@ -1,5 +1,5 @@
 {
-  "format_version": "1.20.10",
+  "format_version": "1.21.90",
   "minecraft:item": {
     "description": {
       "identifier": "armory:sword_emeritio",
@@ -9,9 +9,7 @@
       }
     },
     "components": {
-      "minecraft:icon": {
-        "texture": "adf:sword_emeritio"
-      },
+      "minecraft:icon": "armory:sword_emeritio",
       "minecraft:display_name": {
         "value": "item.armory:sword_emeritio.name"
       },

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "armory:chestplate_kharatio"
+    },
+    "tags": [
+      "dark_forge"
+    ],
+    "pattern": [
+      "I I",
+      "III",
+      "III"
+    ],
+    "key": {
+      "I": {
+        "item": "armory:kharatio_ingot"
+      }
+    },
+    "result": {
+      "item": "armory:chestplate_kharatio",
+      "count": 1
+    }
+  }
+}

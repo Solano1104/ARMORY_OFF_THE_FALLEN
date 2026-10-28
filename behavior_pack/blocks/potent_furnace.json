@@ -11,19 +11,19 @@
       "minecraft:display_name": "tile.armory:potent_furnace.name",
       "minecraft:material_instances": {
         "*": {
-          "texture": "adf:potent_furnace_side",
+          "texture": "armory:potent_furnace_side",
           "render_method": "opaque"
         },
         "up": {
-          "texture": "adf:potent_furnace_top",
+          "texture": "armory:potent_furnace_top",
           "render_method": "opaque"
         },
         "down": {
-          "texture": "adf:potent_furnace_top",
+          "texture": "armory:potent_furnace_top",
           "render_method": "opaque"
         },
         "north": {
-          "texture": "adf:potent_furnace_front_off",
+          "texture": "armory:potent_furnace_front_off",
           "render_method": "opaque"
         }
       },

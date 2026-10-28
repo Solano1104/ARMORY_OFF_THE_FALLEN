@@ -8,40 +8,40 @@
     "kharatio_ingot": {
       "textures": "textures/items/kharatio_ingot"
     },
-    "adf:agua_benta": {
+    "armory:agua_benta": {
       "textures": "textures/items/agua_benta"
     },
-    "adf:boots_celesio": {
+    "armory:boots_celesio": {
       "textures": "textures/items/boots_celesio"
     },
-    "adf:boots_curiotita": {
+    "armory:boots_curiotita": {
       "textures": "textures/items/boots_curiotita"
     },
-    "adf:boots_emeritio": {
+    "armory:boots_emeritio": {
       "textures": "textures/items/boots_emeritio"
     },
-    "adf:boots_kharatio": {
+    "armory:boots_kharatio": {
       "textures": "textures/items/boots_kharatio"
     },
-    "adf:boots_neptita": {
+    "armory:boots_neptita": {
       "textures": "textures/items/boots_neptita"
     },
     "celesio_ingot": {
       "textures": "textures/items/celesio_ingot"
     },
-    "adf:chestplate_celesio": {
+    "armory:chestplate_celesio": {
       "textures": "textures/items/chestplate_celesio"
     },
-    "adf:chestplate_curiotita": {
+    "armory:chestplate_curiotita": {
       "textures": "textures/items/chestplate_curiotita"
     },
-    "adf:chestplate_emeritio": {
+    "armory:chestplate_emeritio": {
       "textures": "textures/items/chestplate_emeritio"
     },
-    "adf:chestplate_kharatio": {
+    "armory:chestplate_kharatio": {
       "textures": "textures/items/chestplate_kharatio"
     },
-    "adf:chestplate_neptita": {
+    "armory:chestplate_neptita": {
       "textures": "textures/items/chestplate_neptita"
     },
     "curiotita_ingot": {
@@ -50,40 +50,40 @@
     "emeritio_ingot": {
       "textures": "textures/items/emeritio_ingot"
     },
-    "adf:helmet_celesio": {
+    "armory:helmet_celesio": {
       "textures": "textures/items/helmet_celesio"
     },
-    "adf:helmet_curiotita": {
+    "armory:helmet_curiotita": {
       "textures": "textures/items/helmet_curiotita"
     },
-    "adf:helmet_emeritio": {
+    "armory:helmet_emeritio": {
       "textures": "textures/items/helmet_emeritio"
     },
-    "adf:helmet_kharatio": {
+    "armory:helmet_kharatio": {
       "textures": "textures/items/helmet_kharatio"
     },
-    "adf:helmet_neptita": {
+    "armory:helmet_neptita": {
       "textures": "textures/items/helmet_neptita"
     },
-    "adf:hidromel": {
+    "armory:hidromel": {
       "textures": "textures/items/hidromel"
     },
-    "adf:leggings_celesio": {
+    "armory:leggings_celesio": {
       "textures": "textures/items/leggings_celesio"
     },
-    "adf:leggings_curiotita": {
+    "armory:leggings_curiotita": {
       "textures": "textures/items/leggings_curiotita"
     },
-    "adf:leggings_emeritio": {
+    "armory:leggings_emeritio": {
       "textures": "textures/items/leggings_emeritio"
     },
-    "adf:leggings_kharatio": {
+    "armory:leggings_kharatio": {
       "textures": "textures/items/leggings_kharatio"
     },
-    "adf:leggings_neptita": {
+    "armory:leggings_neptita": {
       "textures": "textures/items/leggings_neptita"
     },
-    "adf:manual_arsenal": {
+    "armory:manual_arsenal": {
       "textures": "textures/items/manual_arsenal"
     },
     "neptita_ingot": {
@@ -104,34 +104,34 @@
     "raw_neptita": {
       "textures": "textures/items/raw_neptita"
     },
-    "adf:shield_celesio": {
+    "armory:shield_celesio": {
       "textures": "textures/items/shield_celesio"
     },
-    "adf:shield_curiotita": {
+    "armory:shield_curiotita": {
       "textures": "textures/items/shield_curiotita"
     },
-    "adf:shield_emeritio": {
+    "armory:shield_emeritio": {
       "textures": "textures/items/shield_emeritio"
     },
-    "adf:shield_kharatio": {
+    "armory:shield_kharatio": {
       "textures": "textures/items/shield_kharatio"
     },
-    "adf:shield_neptita": {
+    "armory:shield_neptita": {
       "textures": "textures/items/shield_neptita"
     },
-    "adf:sword_celesio": {
+    "armory:sword_celesio": {
       "textures": "textures/items/sword_celesio"
     },
-    "adf:sword_curiotita": {
+    "armory:sword_curiotita": {
       "textures": "textures/items/sword_curiotita"
     },
-    "adf:sword_emeritio": {
+    "armory:sword_emeritio": {
       "textures": "textures/items/sword_emeritio"
     },
-    "adf:sword_kharatio": {
+    "armory:sword_kharatio": {
       "textures": "textures/items/sword_kharatio"
     },
-    "adf:sword_neptita": {
+    "armory:sword_neptita": {
       "textures": "textures/items/sword_neptita"
     }
   }

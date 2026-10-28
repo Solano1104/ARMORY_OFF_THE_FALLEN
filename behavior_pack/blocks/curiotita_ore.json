@@ -11,7 +11,7 @@
       "minecraft:display_name": "tile.armory:curiotita_ore.name",
       "minecraft:material_instances": {
         "*": {
-          "texture": "adf:curiotita_ore",
+          "texture": "armory:curiotita_ore",
           "render_method": "opaque"
         }
       },

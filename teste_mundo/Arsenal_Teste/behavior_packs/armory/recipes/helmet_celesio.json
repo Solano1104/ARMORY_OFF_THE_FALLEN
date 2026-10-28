@@ -1,0 +1,24 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "armory:helmet_celesio"
+    },
+    "tags": [
+      "dark_forge"
+    ],
+    "pattern": [
+      "III",
+      "I I"
+    ],
+    "key": {
+      "I": {
+        "item": "armory:celesio_ingot"
+      }
+    },
+    "result": {
+      "item": "armory:helmet_celesio",
+      "count": 1
+    }
+  }
+}

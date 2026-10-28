@@ -11,15 +11,15 @@
       "minecraft:display_name": "tile.armory:dark_forge_table.name",
       "minecraft:material_instances": {
         "*": {
-          "texture": "adf:dark_forge_table_side",
+          "texture": "armory:dark_forge_table_side",
           "render_method": "opaque"
         },
         "up": {
-          "texture": "adf:dark_forge_table_top",
+          "texture": "armory:dark_forge_table_top",
           "render_method": "opaque"
         },
         "down": {
-          "texture": "adf:dark_forge_table_top",
+          "texture": "armory:dark_forge_table_top",
           "render_method": "opaque"
         }
       },

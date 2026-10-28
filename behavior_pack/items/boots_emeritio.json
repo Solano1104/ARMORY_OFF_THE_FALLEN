@@ -1,5 +1,5 @@
 {
-  "format_version": "1.20.10",
+  "format_version": "1.21.90",
   "minecraft:item": {
     "description": {
       "identifier": "armory:boots_emeritio",
@@ -8,9 +8,7 @@
       }
     },
     "components": {
-      "minecraft:icon": {
-        "texture": "adf:boots_emeritio"
-      },
+      "minecraft:icon": "armory:boots_emeritio",
       "minecraft:display_name": {
         "value": "item.armory:boots_emeritio.name"
       },

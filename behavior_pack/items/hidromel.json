@@ -1,5 +1,5 @@
 {
-  "format_version": "1.20.10",
+  "format_version": "1.21.90",
   "minecraft:item": {
     "description": {
       "identifier": "armory:hidromel",
@@ -8,9 +8,7 @@
       }
     },
     "components": {
-      "minecraft:icon": {
-        "texture": "adf:hidromel"
-      },
+      "minecraft:icon": "armory:hidromel",
       "minecraft:display_name": {
         "value": "item.armory:hidromel.name"
       },
@@ -29,19 +27,7 @@
         "tags": [
           "minecraft:is_food"
         ]
-      },
-      "armory:food_effects": [
-        {
-          "name": "strength",
-          "duration": 500,
-          "amplifier": 0
-        },
-        {
-          "name": "speed",
-          "duration": 500,
-          "amplifier": 1
-        }
-      ]
+      }
     }
   }
 }

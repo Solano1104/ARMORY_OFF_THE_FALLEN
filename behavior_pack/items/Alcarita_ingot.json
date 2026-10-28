@@ -1,14 +1,17 @@
 {
-    "format_version": "1.20.10",
-    "minecraft:item": {
-        "description": {
-            "identifier": "armory:alcarita_ingot",
-            "category": "items"
-        },
-        "components": {
-            "minecraft:icon": {
-                "texture": "alcarita_ingot"
-            }
-        }
+  "format_version": "1.21.90",
+  "minecraft:item": {
+    "description": {
+      "identifier": "armory:alcarita_ingot",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "alcarita_ingot",
+      "minecraft:display_name": {
+        "value": "item.armory:alcarita_ingot.name"
+      }
     }
+  }
 }

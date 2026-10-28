@@ -1,5 +1,5 @@
 {
-  "format_version": "1.20.10",
+  "format_version": "1.21.90",
   "minecraft:item": {
     "description": {
       "identifier": "armory:agua_benta",
@@ -8,9 +8,7 @@
       }
     },
     "components": {
-      "minecraft:icon": {
-        "texture": "adf:agua_benta"
-      },
+      "minecraft:icon": "armory:agua_benta",
       "minecraft:display_name": {
         "value": "item.armory:agua_benta.name"
       },
@@ -29,24 +27,7 @@
         "tags": [
           "minecraft:is_food"
         ]
-      },
-      "armory:food_effects": [
-        {
-          "name": "absorption",
-          "duration": 400,
-          "amplifier": 1
-        },
-        {
-          "name": "regeneration",
-          "duration": 400,
-          "amplifier": 0
-        },
-        {
-          "name": "strength",
-          "duration": 400,
-          "amplifier": 0
-        }
-      ]
+      }
     }
   }
 }

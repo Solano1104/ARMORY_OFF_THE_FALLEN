@@ -1,0 +1,28 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "armory:shield_kharatio"
+    },
+    "tags": [
+      "dark_forge"
+    ],
+    "pattern": [
+      "ISI",
+      "III",
+      " I "
+    ],
+    "key": {
+      "I": {
+        "item": "armory:kharatio_ingot"
+      },
+      "S": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+      "item": "armory:shield_kharatio",
+      "count": 1
+    }
+  }
+}

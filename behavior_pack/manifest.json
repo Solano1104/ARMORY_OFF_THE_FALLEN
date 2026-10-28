@@ -4,20 +4,29 @@
         "description": "Armory - Minerios e Lingotes",
         "name": "Armory Behavior Pack",
         "uuid": "10a13c67-f026-480f-a845-4eef0168475c",
-        "min_engine_version": [1, 20, 10],
-        "version": [1, 0, 0]
+        "min_engine_version": [1, 21, 90],
+        "version": [1, 0, 2]
     },
     "modules": [
         {
+            "type": "script",
+            "language": "javascript",
+            "uuid": "63feef9c-6414-4590-9d11-2d4d2b9279bf",
+            "version": [1, 0, 2],
+            "entry": "scripts/main.js"
+        },
+        {
             "type": "data",
             "uuid": "e2db21e7-8359-4583-9dbf-1b7defa673cf",
-            "version": [1, 0, 0]
+            "version": [1, 0, 2]
         }
     ],
     "dependencies": [
+        { "module_name": "@minecraft/server", "version": "2.0.0" },
+        { "module_name": "@minecraft/server-ui", "version": "2.0.0" },
         {
             "uuid": "5ecad6e8-4fad-48af-8c0d-ef08371c4d6c",
-            "version": [1, 0, 0]
+            "version": [1, 0, 2]
         }
     ]
 }

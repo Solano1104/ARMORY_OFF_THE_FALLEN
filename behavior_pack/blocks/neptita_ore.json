@@ -11,7 +11,7 @@
       "minecraft:display_name": "tile.armory:neptita_ore.name",
       "minecraft:material_instances": {
         "*": {
-          "texture": "adf:neptita_ore",
+          "texture": "armory:neptita_ore",
           "render_method": "opaque"
         }
       },

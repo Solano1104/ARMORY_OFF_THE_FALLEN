@@ -1,14 +1,17 @@
 {
-    "format_version": "1.20.10",
-    "minecraft:item": {
-        "description": {
-            "identifier": "armory:emeritio_ingot",
-            "category": "items"
-        },
-        "components": {
-            "minecraft:icon": {
-                "texture": "emeritio_ingot"
-            }
-        }
+  "format_version": "1.21.90",
+  "minecraft:item": {
+    "description": {
+      "identifier": "armory:emeritio_ingot",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:icon": "emeritio_ingot",
+      "minecraft:display_name": {
+        "value": "item.armory:emeritio_ingot.name"
+      }
     }
+  }
 }

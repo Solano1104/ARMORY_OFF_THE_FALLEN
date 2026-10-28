@@ -11,7 +11,7 @@
       "minecraft:display_name": "tile.armory:kharatio_ore.name",
       "minecraft:material_instances": {
         "*": {
-          "texture": "adf:kharatio_ore",
+          "texture": "armory:kharatio_ore",
           "render_method": "opaque"
         }
       },

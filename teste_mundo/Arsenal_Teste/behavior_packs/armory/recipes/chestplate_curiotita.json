@@ -1,0 +1,25 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "armory:chestplate_curiotita"
+    },
+    "tags": [
+      "dark_forge"
+    ],
+    "pattern": [
+      "I I",
+      "III",
+      "III"
+    ],
+    "key": {
+      "I": {
+        "item": "armory:curiotita_ingot"
+      }
+    },
+    "result": {
+      "item": "armory:chestplate_curiotita",
+      "count": 1
+    }
+  }
+}

@@ -5,13 +5,13 @@
         "name": "Armory Resource Pack",
         "uuid": "5ecad6e8-4fad-48af-8c0d-ef08371c4d6c",
         "min_engine_version": [1, 20, 10],
-        "version": [1, 0, 0]
+        "version": [1, 0, 2]
     },
     "modules": [
         {
             "type": "resources",
             "uuid": "4a93c975-4281-4f63-a1d7-daf9091059f8",
-            "version": [1, 0, 0]
+            "version": [1, 0, 2]
         }
     ]
 }

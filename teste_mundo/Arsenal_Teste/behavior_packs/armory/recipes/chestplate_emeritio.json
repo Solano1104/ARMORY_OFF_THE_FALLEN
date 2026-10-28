@@ -1,0 +1,25 @@
+{
+  "format_version": "1.20.10",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "armory:chestplate_emeritio"
+    },
+    "tags": [
+      "dark_forge"
+    ],
+    "pattern": [
+      "I I",
+      "III",
+      "III"
+    ],
+    "key": {
+      "I": {
+        "item": "armory:emeritio_ingot"
+      }
+    },
+    "result": {
+      "item": "armory:chestplate_emeritio",
+      "count": 1
+    }
+  }
+}
